@@ -1,37 +1,37 @@
 # Antonio Jesús Delgado Briones
 
-**Business Intelligence Analyst · Data Analyst · Business Analyst · Process Automation and Digital Transformation**
+**Business Analyst y Analista Funcional**
 
-I turn business and operational needs into traceable digital solutions through Business Intelligence, data analysis, functional analysis, system integration, process automation and applied AI.
+Convierto necesidades de negocio en soluciones digitales claras y viables. Tengo más de cuatro años de experiencia analizando procesos, recogiendo requisitos y coordinando el trabajo entre áreas de negocio y equipos técnicos.
 
-## Areas of expertise
+## En qué trabajo
 
-- **Business Intelligence and Data:** Power BI, SQL, Python, DAX, Power Query, Looker Studio, ETL, data modelling and data quality.
-- **Business Analysis:** requirements gathering, functional documentation, user stories, acceptance criteria, UAT, BPMN and process improvement.
-- **Process Automation:** Power Automate, Power Apps, RPA, n8n, Make, Zapier, Google Apps Script and automated reporting.
-- **Systems Integration:** REST APIs, OAuth, webhooks, Google Cloud, PostgreSQL, MariaDB, ERP and CRM systems.
-- **Applied AI and Development:** JavaScript, Node.js, Java, AI-assisted workflows, internal applications, documentation and code review.
+- Análisis funcional, toma de requisitos y documentación funcional.
+- Historias de usuarios, criterios de aceptación, pruebas funcionales y UAT.
+- Mejora de procesos, gestión de stakeholders y coordinación de proyectos.
+- Business Intelligence con Power BI, SQL, análisis de datos, calidad del dato y reporting.
+- Integración de sistemas, API REST y automatización de procesos.
+- Inteligencia Artificial como especialización respaldada por formación y certificaciones.
 
-## Selected impact
+## Experiencia y resultados
 
-- Reduced operational closing times by more than **50%** through automation, validation and data integration.
-- Reduced monthly reporting close time by approximately **30%** in an international SaaS environment.
-- Analysed cost allocation processes of approximately **€11M per month** in the retail sector.
-- Worked with business and operational data across **EMEA, LATAM and the United States**.
+- Reducción superior al **50 %** del tiempo dedicado a varios procesos operativos mediante automatización, validación e integración de datos.
+- Reducción aproximada del **30 %** del cierre mensual de reporting en un entorno SaaS internacional.
+- Experiencia en retail, formación, SaaS internacional y tercer sector.
 
-## Portfolio projects
+## Proyecto destacado
 
-| Project | Focus | Status |
-|---|---|---|
-| Operations Control Hub | Business analysis, internal applications and process automation | In development |
-| International BI Pipeline | Data integration, reporting and data quality | Planned |
-| Document Traceability Lab | APIs, document workflows and end-to-end traceability | Planned |
-| Retail Analytics Automation | SQL, Python, Power BI and operational analytics | Planned |
+### [Plataforma de gestión](https://github.com/antoniojesusdelgado/management-platform-demo)
 
-All public demonstrations use synthetic or anonymised data and contain no confidential information, credentials or proprietary code.
+Réplica técnica de una solución de gestión implantada para centralizar procesos y reducir la dependencia de hojas de cálculo y herramientas SaaS externas. La demostración pública utiliza únicamente datos sintéticos y no contiene información, documentos ni reglas internas.
 
-## Connect
+- [Ver demostración](https://plataformagestion.app/login)
+- [Consultar documentación](https://github.com/antoniojesusdelgado/management-platform-demo#readme)
 
+## Portfolio y contacto
+
+- [Portfolio profesional](https://antoniodelgado.tech)
 - [LinkedIn](https://www.linkedin.com/in/antoniojesusdelgado/)
-- [Email](mailto:antoniodelgadobr@gmail.com)
-- Málaga, Spain
+- Málaga, España
+
+Los proyectos y demostraciones públicas utilizan datos sintéticos o anonimizados y no incluyen credenciales ni información confidencial.
