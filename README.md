@@ -1,50 +1,74 @@
 # Antonio Jesús Delgado Briones
 
-**Business Analyst y Analista Funcional**
+**Business Analyst y Analista Funcional | Procesos, requisitos e integración de sistemas**
 
-Convierto necesidades de negocio en soluciones digitales claras y viables. Tengo más de cuatro años de experiencia analizando procesos, recogiendo requisitos y coordinando el trabajo entre áreas de negocio y tecnología.
+Convierto necesidades de negocio en soluciones digitales claras y aplicables. Tengo más de cuatro años de experiencia trabajando con procesos, datos y tecnología, desde el análisis y la definición funcional hasta las pruebas y la implantación.
 
-## Perfil profesional
+[Portfolio profesional](https://antoniodelgado.tech) · [LinkedIn](https://www.linkedin.com/in/antoniojesusdelgado/) · [Contacto](mailto:contacto@antoniodelgado.tech)
 
-- Análisis funcional, toma de requisitos y documentación funcional.
-- Historias de usuario, criterios de aceptación, pruebas funcionales y UAT.
-- Mejora de procesos, gestión de stakeholders y coordinación de proyectos.
-- Business Intelligence con Power BI, SQL, análisis de datos, calidad del dato y reporting.
-- Integración de sistemas, API REST y automatización de procesos.
-- Inteligencia Artificial como especialización respaldada por formación y certificaciones.
+## En qué aporto valor
+
+- **Analizar:** necesidades, procesos, requisitos, reglas de negocio y criterios de aceptación.
+- **Alinear:** áreas de negocio y equipos técnicos alrededor de una solución viable.
+- **Validar:** entregas, datos, pruebas funcionales y UAT antes de la puesta en producción.
+
+Business Intelligence, automatización e Inteligencia Artificial complementan mi posicionamiento principal como Business Analyst y Analista Funcional.
 
 ## Experiencia y resultados
 
+- Más de cuatro años de experiencia en retail, formación, SaaS internacional y tercer sector.
 - Reducción superior al **50 %** del tiempo dedicado a varios procesos operativos mediante automatización, validación e integración de datos.
-- Reducción aproximada del **30 %** del cierre mensual de reporting en un entorno SaaS internacional.
-- Experiencia en retail, formación, SaaS internacional y tercer sector.
+- Reducción aproximada del **30 %** del tiempo de cierre mensual de reporting en un entorno SaaS internacional.
 
 ## Proyectos destacados
 
-### Plataforma de gestión
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://antoniodelgado.tech/proyectos/plataforma-de-gestion">
+        <img src="https://antoniodelgado.tech/images/projects/management-platform/launch-poster.webp" alt="Plataforma de gestión" width="100%">
+      </a>
+      <h3>Plataforma de gestión</h3>
+      <p><strong>Necesidad:</strong> centralizar una operativa distribuida entre hojas de cálculo y distintas herramientas.</p>
+      <p><strong>Aportación:</strong> análisis de procesos, toma de requisitos, definición funcional, desarrollo, pruebas e implantación.</p>
+      <p><strong>Resultado:</strong> una solución utilizada para coordinar la operativa diaria; la versión pública es posterior e independiente.</p>
+      <p><a href="https://antoniodelgado.tech/proyectos/plataforma-de-gestion">Caso profesional</a> · <a href="https://plataformagestion.app">Aplicación</a> · <a href="https://github.com/antoniojesusdelgado/management-platform">Repositorio</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://antoniodelgado.tech/proyectos/drivetransfer">
+        <img src="https://antoniodelgado.tech/images/projects/drivetransfer/launch-poster.png" alt="DriveTransfer" width="100%">
+      </a>
+      <h3>DriveTransfer</h3>
+      <p><strong>Necesidad:</strong> preparar y transferir documentación de Google Drive con mayor control.</p>
+      <p><strong>Aportación:</strong> análisis del flujo, toma de requisitos, definición funcional, desarrollo, pruebas e implantación.</p>
+      <p><strong>Resultado:</strong> una herramienta para revisar, copiar y mover contenido entre Mi unidad y unidades compartidas.</p>
+      <p><a href="https://antoniodelgado.tech/proyectos/drivetransfer">Caso profesional</a> · <a href="https://drivetransfer.app">Aplicación</a> · <a href="https://github.com/antoniojesusdelgado/drivetransfer">Repositorio</a></p>
+    </td>
+  </tr>
+</table>
 
-**Necesidad.** Centralizar la operativa diaria de Fundación Cibervoluntarios, antes distribuida entre hojas de cálculo y herramientas externas.
+Las versiones públicas utilizan información sintética, están aisladas de los sistemas internos y no implican afiliación o respaldo de terceros.
 
-**Intervención.** Análisis de procesos, toma de requisitos, desarrollo, pruebas, implantación y despliegue de la solución utilizada internamente.
+## Capacidades
 
-**Solución.** Plataforma web modular para gestionar personas, proyectos, tareas, vacaciones, incidencias, tesorería, nóminas y analítica. La versión pública es posterior, independiente y está técnicamente aislada del sistema interno.
+| Análisis | Entrega | Datos | Soluciones |
+| --- | --- | --- | --- |
+| Business Analyst | Mejora de procesos | Business Intelligence | Integración de sistemas |
+| Análisis funcional | Validación funcional | Microsoft Power BI | API REST |
+| Toma de requisitos | UAT | SQL | Automatización de procesos |
+| Documentación funcional | Jira y Confluence | Calidad del dato | Inteligencia Artificial |
 
-**Evidencia.** [Caso profesional](https://antoniodelgado.tech/proyectos/plataforma-de-gestion) · [Aplicación](https://plataformagestion.app) · [Repositorio](https://github.com/antoniojesusdelgado/management-platform)
+## Formación y certificaciones
 
-### DriveTransfer
+- Máster en Data Science y Business Analytics — Universidad Católica de Ávila / IMF Business School.
+- Microsoft Certified: Azure AI Fundamentals (AI-900).
+- Metodologías Ágiles y Scrum.
+- Liderazgo en Transformación Digital.
 
-**Necesidad.** Agilizar la preparación y transferencia de documentación almacenada en Google Drive para procesos internos.
+## Contacto
 
-**Intervención.** Análisis del flujo, toma de requisitos e implantación de CopyDrive; posteriormente, evolución del aprendizaje funcional hacia una aplicación pública independiente.
+Estoy interesado en proyectos de consultoría tecnológica y soluciones internas en los que pueda conectar procesos, datos y tecnología.
 
-**Solución.** Herramienta web para revisar, copiar y mover archivos entre Mi unidad y unidades compartidas, con vista previa, control de conflictos, confirmación adicional para movimientos y seguimiento de operaciones.
-
-**Evidencia.** [Caso profesional](https://antoniodelgado.tech/proyectos/drivetransfer) · [Aplicación](https://drivetransfer.app) · [Repositorio](https://github.com/antoniojesusdelgado/drivetransfer)
-
-Las versiones públicas son independientes y utilizan datos ficticios o sanitizados; no contienen información ni conexiones internas de Fundación Cibervoluntarios.
-
-## Portfolio y contacto
-
-- [Portfolio profesional](https://antoniodelgado.tech)
-- [LinkedIn](https://www.linkedin.com/in/antoniojesusdelgado/)
-- Málaga, España
+- [antoniodelgado.tech](https://antoniodelgado.tech)
+- [linkedin.com/in/antoniojesusdelgado](https://www.linkedin.com/in/antoniojesusdelgado/)
+- [contacto@antoniodelgado.tech](mailto:contacto@antoniodelgado.tech)
