@@ -1,14 +1,16 @@
 # Antonio Jesús Delgado Briones
 
-**Business Analyst y Analista Funcional**
+**Analista Funcional**
 
-Convierto necesidades de negocio en soluciones digitales claras y viables. Tengo más de cuatro años de experiencia analizando procesos, recogiendo requisitos y coordinando el trabajo entre áreas de negocio y tecnología.
+Convierto necesidades de negocio en requisitos claros y soluciones que pueden validarse e implantarse. Tengo más de cuatro años de experiencia analizando procesos, recogiendo requisitos y coordinando el trabajo entre áreas de negocio y tecnología.
+
+Business Analysis, Business Intelligence, automatización e Inteligencia Artificial completan mi perfil como competencias complementarias.
 
 ## Perfil profesional
 
 - Análisis funcional, toma de requisitos y documentación funcional.
 - Historias de usuario, criterios de aceptación, pruebas funcionales y UAT.
-- Mejora de procesos, gestión de stakeholders y coordinación de proyectos.
+- Mejora de procesos, coordinación de áreas implicadas y gestión de proyectos.
 - Business Intelligence con Power BI, SQL, análisis de datos, calidad del dato y reporting.
 - Integración de sistemas, API REST y automatización de procesos.
 - Inteligencia Artificial como especialización respaldada por formación y certificaciones.
